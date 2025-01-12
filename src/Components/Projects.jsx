@@ -9,7 +9,7 @@ const Projects = () => {
             {
                 image: projectimg1,
                 description: "A Portfolio Website, Built With React.js And Tailwind CSS",
-                link1: "https://github.com/Anith-coder/PortFolio.git",
+                link1: "https://github.com/Anith-coder/Portfolio",
                 link2: "https://maria-anith-coder.web.app/",
             },
             {

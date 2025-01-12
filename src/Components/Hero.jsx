@@ -4,7 +4,7 @@ import { FaLinkedin, FaGithub, FaFacebook } from "react-icons/fa6";
 
 const Hero = () => {
   const config = {
-    subtitle: "I'm An Java Developer",
+    subtitle: "I'm An Software Developer",
     social: {
       github: 'https://github.com/Anith-coder',
       linkedin: 'https://www.linkedin.com/in/maria-anith-57b915293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
